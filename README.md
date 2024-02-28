@@ -5,6 +5,7 @@
 ### 비교에 사용한 모델
 - EfficientnetV2s, InceptionResnetV2, InceptionV3, Resnet50, SSD, VGG16, yoloV5
 - 그 중 InceptionResnetV2, EfficientnetV2s, InceptionV3 를 중점적으로 비교하여 가장 성능이 좋게 나온 InceptionResnetV2를 선정했습니다.
+
 ![image](https://github.com/LeticiaKang/DL_Image-Classification/assets/87592790/4042b9c7-28a2-4517-be14-e45f43791f52)
 
 ![image](https://github.com/LeticiaKang/DL_Image-Classification/assets/87592790/d41eeaa7-e5f1-4f76-b865-53c38a19758f)
